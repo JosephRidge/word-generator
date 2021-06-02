@@ -5,7 +5,7 @@
 * DART is the main language
 * enables dev of cross-platfomr applications( IOS / Android)
 
-# SetUp (Bias otwards Linux n Android Studio :
+# SetUp (Bias towards Linux n Android Studio :
 
 1.  install the sdk from : https://flutter.dev/docs/get-started/install/linux#install-flutter-manually
 2.  Extract the zip file to your desired directory
